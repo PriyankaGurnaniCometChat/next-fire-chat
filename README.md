@@ -2,8 +2,8 @@
 This is a demo chat app built with nextjs and firebase
 
 ## Dependencies
-* Firebase
-* Date-FNS
+* [Firebase](https://firebase.google.com)
+* [Date-FNS](https://www.npmjs.com/package/date-fns)
 
 ## Installation
 * Clone this repo ``git clone https://github.com/EBEREGIT/next-fire-chat/``
