@@ -1,0 +1,110 @@
+body {
+  background-color: black !important;
+  color: white;
+}
+
+/* sign in */
+#sign_in {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#sign_in button {
+  padding: 5%;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+
+#sign_in button:hover {
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+}
+
+/* sign out */
+#sign_out{
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  border-bottom: 1px solid white;
+  padding-bottom: 1%;
+}
+
+#sign_out button{
+  padding: 1%;
+  background-color: red;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+}
+
+#sign_out button:hover{
+  border: 1px solid red;
+  background-color: transparent;
+  color: white;
+}
+
+/* chat */
+#chat_room{
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+#chat_room li{
+  list-style-type: none;
+}
+
+#chat_room section{
+  display: inline-block;
+}
+
+.received section:last-child{
+  margin-left: 5%;
+}
+
+.sent section:last-child{
+  margin-right: 5%;
+}
+
+#chat_room span{
+  color: gray;
+}
+
+#chat_room img{
+  border-radius: 10px;
+  height: 70px;
+  width: 70px;  
+  margin-top: 5%;
+}
+
+/* form */
+form{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+form input{
+  width: 80%;
+  height: 40px;
+}
+
+form button{
+  width: 19.5%;
+  height: 48px;
+}
+
+/* message */
+.sent{
+  display: flex;
+  flex-direction: row-reverse;
+}
