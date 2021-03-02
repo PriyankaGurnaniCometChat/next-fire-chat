@@ -1,6 +1,10 @@
 # Next Fire Chat
 This is a demo chat app built with nextjs and firebase
 
+![sign in](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/sign-in.JPG)
+
+![sign out and chat](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/sign-out-and-chat.JPG)
+
 ## Technology
 This demo uses:
 * [Nextjs](https://nextjs.org/)
