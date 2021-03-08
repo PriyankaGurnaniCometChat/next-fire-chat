@@ -6,9 +6,9 @@ Read the full tutorial here:
 
 This demo app shows how to build a group chat app with nextjs and firebase:
 
-![sign in](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/sign-in.JPG)
+![sign in](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/chat2.JPG)
 
-![sign out and chat](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/sign-out-and-chat.JPG)
+![sign out and chat](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/chat1.JPG)
 
 ## Technology
 This demo uses:
