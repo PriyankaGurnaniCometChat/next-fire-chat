@@ -1,5 +1,10 @@
-# Next Fire Chat
-This is a demo chat app built with nextjs and firebase
+# Build a chat app with Nextjs
+
+Read the full tutorial here:
+
+>> [Build a chat app with Nextjs]()
+
+This demo app shows how to build a group chat app with nextjs and firebase:
 
 ![sign in](https://raw.githubusercontent.com/EBEREGIT/next-fire-chat/master/screenshots/sign-in.JPG)
 
