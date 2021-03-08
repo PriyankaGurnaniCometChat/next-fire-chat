@@ -94,7 +94,7 @@ form{
 }
 
 form input{
-  width: 80%;
+  width: 79%;
   height: 40px;
 }
 
@@ -107,4 +107,5 @@ form button{
 .sent{
   display: flex;
   flex-direction: row-reverse;
+  margin-right: 5%;
 }
