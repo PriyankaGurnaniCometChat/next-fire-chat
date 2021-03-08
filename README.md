@@ -1,4 +1,4 @@
-Build a chat app with Nextjs
+# Build a chat app with Nextjs
 
 Read the full tutorial here:
 
